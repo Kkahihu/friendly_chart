@@ -3,4 +3,4 @@
  
  ## Looks
  
-![The First Image] (C:\Users\EliteBook\Desktop\Flutter_Examples\friendly_chart\images)
+![The First Image] (https://github.com/Kkahihu/friendly_chart/blob/main/images/Image%201.png)
